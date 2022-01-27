@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+    <body style="text-align:center;">
+<p>test</p>
+
+
+
+
+    <h1><i>Possible Tattoo Choices</i></h1>
+    <h1><em>Tribal Design 1</em></h1>
+<img src="images/tatt1.jpg" alt="tatt1" width= "400">
+<h2>Tribal Design 2</h2>
+<img src="images/tatt2.jpg" alt="tatt2">
+<h3 style="color:blue;">Tribal Design 3</h3>
+<img src="images/tatt3.jpg" alt="tatt3">
+<p><b>All great choices.</b></p>
+  </body>
+</html>
